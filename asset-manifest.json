@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hashtagronit/TodayPay-Assesment/static/css/main.4e1a6b7d.css",
+    "main.js": "/hashtagronit/TodayPay-Assesment/static/js/main.c483113a.js",
+    "index.html": "/hashtagronit/TodayPay-Assesment/index.html",
+    "main.4e1a6b7d.css.map": "/hashtagronit/TodayPay-Assesment/static/css/main.4e1a6b7d.css.map",
+    "main.c483113a.js.map": "/hashtagronit/TodayPay-Assesment/static/js/main.c483113a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e1a6b7d.css",
+    "static/js/main.c483113a.js"
+  ]
+}
